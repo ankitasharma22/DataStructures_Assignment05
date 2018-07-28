@@ -1,0 +1,7 @@
+C:\Users\swapnil\source\repos\Assignment04\Assignment04\bin\Debug\Assignment04.exe.config
+C:\Users\swapnil\source\repos\Assignment04\Assignment04\bin\Debug\Assignment04.exe
+C:\Users\swapnil\source\repos\Assignment04\Assignment04\bin\Debug\Assignment04.pdb
+C:\Users\swapnil\source\repos\Assignment04\Assignment04\obj\Debug\Assignment04.csprojResolveAssemblyReference.cache
+C:\Users\swapnil\source\repos\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.CoreCompileInputs.cache
+C:\Users\swapnil\source\repos\Assignment04\Assignment04\obj\Debug\Assignment04.exe
+C:\Users\swapnil\source\repos\Assignment04\Assignment04\obj\Debug\Assignment04.pdb
